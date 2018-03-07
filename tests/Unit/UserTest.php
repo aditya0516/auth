@@ -18,8 +18,8 @@ class UserTest extends TestCase
         $this->assertTrue(true);
     }
 
-    public function testGetUser()
-    {
-        $user= User::find(1);
-    }
+   // public function testGetUser()
+   // {
+    //    $user= User::find(1);
+    //}
 }
